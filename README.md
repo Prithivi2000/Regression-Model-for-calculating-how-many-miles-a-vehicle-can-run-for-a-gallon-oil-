@@ -1,0 +1,2 @@
+# Regression-Model-for-calculating-how-many-miles-a-vehicle-can-run-for-a-gallon-oil-
+The Model uses Support Vector Regression for calculating the miles a vehicle can run for a gallon of Oil depending on certain features and has a R-Squared value of 0.79905 after applying Support Vector Regression. The Support Vector Regression is applied after trying other Regression models such as Decision Tree Regression, Random Forrest Regression, Multiple Linear Regression which all has a R-Squared value less than that I got in Support Vector Regression.
